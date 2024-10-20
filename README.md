@@ -1,5 +1,6 @@
 # Portfolio
 ADITYA DEV
+
 Aspiring Software Developer
 Email: ad3206926@gmail.com | LinkedIn: https://www.linkedin.com/in/aditya-dev-bb174a31b/ | GitHub: github.com/AdityaDev
 
